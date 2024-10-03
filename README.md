@@ -1,5 +1,5 @@
 # x-download-video
-Python to download X videos
+Python to download videos from X
 
 ### Features
 Single Script: Download videos from X with ease.
